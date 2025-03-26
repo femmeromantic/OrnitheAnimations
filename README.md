@@ -1,5 +1,4 @@
 # Ornithe Animations
-
 1.7 animations mod for Ornithe 1.8.9!
 
 ## Features Included:
@@ -27,4 +26,4 @@ GUI
 - Remove Titles: Prevents titles from displaying.
 - Center GUI Selection: Centers GUI selection elements.
 
-## Requires Java 21 and Fabric Language Kotlin!
+## Requires Fabric Language Kotlin!
