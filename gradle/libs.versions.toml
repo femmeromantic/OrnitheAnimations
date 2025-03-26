@@ -1,0 +1,18 @@
+[versions]
+minecraft = "1.8.9"
+fabric = "0.16.10"
+fabrickotlin = "1.12.3+kotlin.2.0.21"
+extras = "0.5.0-beta.4"
+modmenu = "0.2.1+mc1.8.9"
+devauth = "1.2.1"
+
+feather = "28"
+osl = "0.16.3"
+
+[libraries]
+minecraft = { group = "com.mojang", name = "minecraft", version.ref = "minecraft" }
+fabric-loader = { group = "net.fabricmc", name = "fabric-loader", version.ref = "fabric" }
+fabric-kotlin = { group = "net.fabricmc", name = "fabric-language-kotlin", version.ref = "fabrickotlin" }
+mixinextras = { group = "io.github.llamalad7", name = "mixinextras-fabric", version.ref = "extras" }
+modmenu = { group = "com.terraformersmc", name = "modmenu", version.ref = "modmenu"}
+devauth = { group = "me.djtheredstoner", name = "DevAuth-fabric", version.ref = "devauth" }
